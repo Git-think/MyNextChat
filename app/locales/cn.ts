@@ -310,11 +310,12 @@ const cn = {
       NoAccess: "输入 API Key 或访问密码查看余额",
     },
 
-    Access: {Access: 
+    Access: {
       SaasStart: {
         Title: "",
         Label: "",
-        SubTitle: "",
+        SubTitle:
+          "",
         ChatNow: "",
       },
       AccessCode: {
